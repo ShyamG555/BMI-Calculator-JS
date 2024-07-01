@@ -1,4 +1,6 @@
 ````Javascript Mini Project for college goers best to include in your project```
+
+
 Takes the user input for weight and height
 Checks for not number,empty and string
 Calculates the bmi by using standard bmi formula
